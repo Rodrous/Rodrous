@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Rodrous
-- 👀 I’m interested in AI and CyberSecurity
+- 👀 I’m interested in SDE, AI and CyberSecurity
 - 🌱 I’m currently majoring in Computer Science Engineering. 
-- 💞️ I’m looking to collaborate on any project 
 - 📫 How to reach me? Get me on Discord: @itsPPT#9651
 
 <!---
