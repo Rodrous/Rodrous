@@ -34,9 +34,7 @@ Now I just strive to improve skills and learn about new _hot_ technologies and t
 <img alt="Avro" align="center" src="https://img.shields.io/badge/-Avro-informational?style=flat&logo=Apache&logoColor=white" />
 <img alt="AWS" align="center" src="https://img.shields.io/badge/-AWS-informational?style=flat&logo=&logoColor=white" />
 
-<br>
-
-Currently Learning:
+<br> <i>Currently Learning: <br>
 
 <img alt="MySQL" align="center" src="https://img.shields.io/badge/-MySQL-de9000?style=flat&logo=mysql&logoColor=white" />
 <img alt="Bash" align="center" src="https://img.shields.io/badge/-Bash-2b29ff?style=flat&logo=gnu%20bash&logoColor=white" /> 
@@ -44,8 +42,6 @@ Currently Learning:
 <img alt="Rust" align="center" src="https://img.shields.io/badge/-Rust-orange?style=flat&logo=Rust&logoColor=white" />
 <img alt="C#" align="center" src="https://img.shields.io/badge/-CSharp-inactive?style=flat&logo=csharp&logoColor=white" />
 
-<br>
-
-Find me on:
+<br> <i>Find me on: <br>
 
 <img src="https://dcbadge.vercel.app/api/shield/311919809895858177?compact=true"/>
