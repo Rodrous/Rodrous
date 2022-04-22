@@ -35,7 +35,9 @@ Now I just strive to improve skills and learn about new _hot_ technologies and t
 <img alt="AWS" align="center" src="https://img.shields.io/badge/-AWS-informational?style=flat&logo=&logoColor=white" />
 
 <br>
-Currently Learning: <br>
+
+Currently Learning:
+
 <img alt="MySQL" align="center" src="https://img.shields.io/badge/-MySQL-de9000?style=flat&logo=mysql&logoColor=white" />
 <img alt="Bash" align="center" src="https://img.shields.io/badge/-Bash-2b29ff?style=flat&logo=gnu%20bash&logoColor=white" /> 
 <img alt="Kubenetes" align="center" src="https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white" />
