@@ -24,6 +24,12 @@ Now I just strive to improve skills and learn about new _hot_ technologies and t
 <img alt="FastApi" align="center" src="https://img.shields.io/badge/-FastApi-03a3a6?style=flat&logo=fastApi&logoColor=white" />
 <img alt="Docker" align="center" src="https://img.shields.io/badge/-Docker-blue?style=flat&logo=docker&logoColor=white" />
 <img alt="MongoDb" align="center" src="https://img.shields.io/badge/-Mongodb-green?style=flat&logo=Mongodb&logoColor=white" />
+<img alt="MySQL" align="center" src="https://img.shields.io/badge/-MySQL-de9000?style=flat&logo=mysql&logoColor=white" />
+<img alt="Bash" align="center" src="https://img.shields.io/badge/-Bash-2b29ff?style=flat&logo=gnu%20bash&logoColor=white" /> 
+<img alt="Kubenetes" align="center" src="https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white" />
+<img alt="Rust" align="center" src="https://img.shields.io/badge/-Rust-orange?style=flat&logo=Rust&logoColor=white" />
+<img alt="C#" align="center" src="https://img.shields.io/badge/-CSharp-inactive?style=flat&logo=csharp&logoColor=white" />
+<img alt="Jenkins" align="center" src="https://img.shields.io/badge/-Jenkins-orange?style=flat&logo=Jenkins&logoColor=white" />
 
 <br> <i>I also have some experience with the following: <br>
 
@@ -36,11 +42,8 @@ Now I just strive to improve skills and learn about new _hot_ technologies and t
 
 <br> <i>Currently Learning: <br>
 
-<img alt="MySQL" align="center" src="https://img.shields.io/badge/-MySQL-de9000?style=flat&logo=mysql&logoColor=white" />
-<img alt="Bash" align="center" src="https://img.shields.io/badge/-Bash-2b29ff?style=flat&logo=gnu%20bash&logoColor=white" /> 
-<img alt="Kubenetes" align="center" src="https://img.shields.io/badge/-Kubernetes-informational?style=flat&logo=Kubernetes&logoColor=white" />
-<img alt="Rust" align="center" src="https://img.shields.io/badge/-Rust-orange?style=flat&logo=Rust&logoColor=white" />
-<img alt="C#" align="center" src="https://img.shields.io/badge/-CSharp-inactive?style=flat&logo=csharp&logoColor=white" />
+
+
 
 <br> <i>Find me on: <br>
 
