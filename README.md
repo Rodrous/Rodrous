@@ -40,9 +40,6 @@ Now I just strive to improve skills and learn about new _hot_ technologies and t
 <img alt="Avro" align="center" src="https://img.shields.io/badge/-Avro-informational?style=flat&logo=Apache&logoColor=white" />
 <img alt="AWS" align="center" src="https://img.shields.io/badge/-AWS-informational?style=flat&logo=&logoColor=white" />
 
-<br> <i>Currently Learning: <br>
-
-
 
 
 <br> <i>Find me on: <br>
